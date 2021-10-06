@@ -1,0 +1,223 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+h1{
+    text-align: center;
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    color:red;
+}
+img{
+    width: 40%;
+     margin: 10pt;
+     position: relative;
+     top: -3px;
+     left: 390px;
+}
+h2{
+    text-align:center;
+}
+
+iframe{
+    /*width: 40%;*/
+    margin: 10pt;
+    position: relative;
+    top: -3px;
+    left: 15px;
+}
+body{
+    background-image: url(../img/1797e0498e01adf18876dfd50dd1eae0.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+h2{
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    color:red;
+    font-style: italic;
+    border-width: 10px;
+    border-style: dashed;
+    margin-bottom: 5px;
+    padding: 5px;
+    margin-left: 450px;
+    margin-right: 450px;
+    
+}
+p{
+    font-size: 1.3em;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    text-align: center;
+}
+a{
+    color: red;
+}
+main{
+    width: 1300px;
+    margin: auto;
+    padding: 5px;
+}
+.post_ul{
+    color: snow;
+    display: flex;
+    flex-direction: row;
+    list-style:none;
+    padding: 0;;
+}
+nav{
+    /*background-color:white;*/
+    padding: 0 20 px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+li{
+    padding: 0 20px;
+}
+li :hover{
+    padding: 0 20px;
+    cursor: pointer;
+    opacity: 0,8;
+    background-color: black;
+
+}
+
+div{
+    text-align: center;
+}
+.post_img1{
+    left: 80px;
+    border-style: dashed;
+    margin-bottom: 5px;
+    padding: 5px;
+    border-color: red;
+}
+.post_img2{
+    left: 160px;
+    border-style: dashed;
+    margin-bottom: 5px;
+    padding: 5px;
+    border-color: red;
+}
+.post_img3{
+    left: 80px;
+    border-style: dashed;
+    margin-bottom: 5px;
+    padding: 5px;
+    border-color: red;
+}
+.post_img4{
+    left: 160px;
+    border-style: dashed;
+    margin-bottom: 5px;
+    padding: 5px;
+    border-color: red;
+    
+}
+.post_img5{
+    left: 80px;
+    border-style: dashed;
+    margin-bottom: 5px;
+    padding: 5px;
+    border-color: red;
+    
+    
+}
+.post_img6{
+    left: 160px;
+    border-style: dashed;
+    margin-bottom: 5px;
+    padding: 5px;
+    border-color: red;
+    
+    
+}
+.imgefeito {
+    margin: 0;
+    overflow: hidden;
+    float: left;
+    position: relative;
+}
+.imgefeito a {
+    text-decoration: none;
+    float: left;
+}
+.imgefeito a:hover {
+    cursor: pointer;
+} 
+table{
+    text-align: center;
+    margin: auto;
+    border: 2px solid red;
+    background-color: black;
+}
+td{
+    color: white;
+}
+.post_toquio{
+    left: auto;
+}
+.post_lisboa{
+    left: auto;
+}
+.post_professor{
+    left: auto;
+}
+.post_rio{
+    left: auto;
+}
+.post_berlim{
+    left: auto;
+}
+.post_monica{
+    left: auto;
+}
+.post_denver{
+    left: auto;
+}
+.post_moscou{
+    left: auto;
+}
+.post_nairobi{
+    left: auto;
+}
+.post_helsinque{
+    left: auto;
+}
+.post_arturo{
+    left: auto;
+}
+.post_alison{
+    left: auto;
+}
+.post_palermo{
+    left: auto;
+}
+.post_bogota{
+    left: auto;
+}
+.post_coronel{
+    left: auto;
+}
+.post_bogota{
+    left: auto;
+}
+.post_marsella{
+    left: auto;
+}
+.post_manila{
+    left: auto;
+}
+.post_alicia{
+    left: auto;
+}
+
+
+
+
+
+
+
+
